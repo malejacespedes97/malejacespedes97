@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy María Alejandra
+👋 ¡Hola! Soy María Alejandra Correa
 
 👩‍💻 Soy Scrum Master y estudiante de ingeniería en sistemas, apasionada por el mundo de la tecnología. 
 
@@ -10,7 +10,10 @@
     
 💼 Estoy interesada en oportunidades de colaboración relacionadas con la gestión de proyectos ágiles, la tecnología y el desarrollo de software.
 
-📫 Puedes contactarme a través de LinkedIn www.linkedin.com/in/maría-alejandra-correa-céspedes-888702126
+🌍 Estoy en Medellín, Colombia.
+
+📫 Puedes contactarme a través de 
+[LinkedIn](www.linkedin.com/in/maría-alejandra-correa-céspedes-888702126) 
 
 
 ¡Gracias por visitar mi perfil de GitHub!
